@@ -112,7 +112,7 @@ Por favor, leia o COLABORACAO.md para obter detalhes sobre o nosso código de co
 ✒️ Autores
 Rox
 
-Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
+Um desenvolvedor 
 Fattima Viana
 
 
