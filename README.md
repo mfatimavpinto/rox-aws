@@ -2,7 +2,7 @@
 Ingestão de dados com MySQL Workbench + RS AWS
 
 
-🚀 Começando
+🚀 
 O intuito do projeto é uma ingestão de dados em alguma nuvem pública, por motivos utilizei a AWS 
 
 📋 Pré-requisitos
